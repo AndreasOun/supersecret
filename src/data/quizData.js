@@ -1,6 +1,9 @@
 // quizData.js
 const quizData = [
     {
+      text: 'Make andu do whatever you want. Say it now.',
+    },
+    {
       text: 'What is eachother favorite anime Opening?',
     },
     {
@@ -16,49 +19,28 @@ const quizData = [
       text: 'Say what you love about eachother?',
     },
     {
-      text: 'Which Italian city is famous for its romance?',
+      text: 'What should change about Andu?',
     },
     {
-      text: 'What do you call a group of flying birds in love?',
+      text: 'Say something nice about eachother',
     },
     {
-      text: 'What is the most romantic city in the world?',
+      text: 'Where do you see us in 1 year',
     },
     {
-      text: 'What is the traditional flower for Valentine\'s Day?',
-    },
-    {
-      text: 'What do you call a romantic meal for two?',
-    },
-    {
-      text: 'What is the name of the famous landmark in Paris that symbolizes love?',
+      text: 'now lets play a quiz about love <3<3<3',
     },
     {
       text: 'Which planet is named after the Roman goddess of love?',
     },
     {
-      text: 'What is the title of the famous love song by Whitney Houston?',
-    },
-    {
-      text: 'What is the name of the romantic comedy film starring Julia Roberts and Hugh Grant?',
-    },
-    {
       text: 'What is the main ingredient in chocolate that is said to be an aphrodisiac?',
     },
     {
-      text: 'What is the meaning of the phrase "Love at first sight"?',
-    },
-    {
-      text: 'Who is Cupid\'s mother?',
-    },
-    {
-      text: 'What is the traditional gift for a 25th wedding anniversary?',
-    },
-    {
-      text: 'What is the name of the romantic novel by Jane Austen?',
-    },
-    {
       text: 'What do you call the day before Valentine\'s Day?',
+    },
+    {
+      text: 'Thank you for visiting my page that i made for you <3',
     },
     // Add more questions here
   ];
