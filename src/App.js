@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './styles.css';
+import Quiz from './components/Quiz';
+import RandomHeart from './components/RandomHeart';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{ position: 'relative', width: '100vw', height: '100vh' }}>
+      {/* Render the hearts alongside your existing content */}
+      {[...Array(5)].map((_, i) => (
+        <RandomHeart key={i} />
+      ))}
+      <h1>Happy birthday sweetheart I love you so much, Lets play a quiz!</h1>
+      <Quiz />
     </div>
   );
 }

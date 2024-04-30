@@ -1,3 +1,7 @@
+body {
+  background-image: '.components/images/image.png.';
+}
+
 .App {
   text-align: center;
 }
