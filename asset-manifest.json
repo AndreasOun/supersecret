@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//andreasoun.github.io/supersecret/static/css/main.9526f489.css",
+    "main.js": "//andreasoun.github.io/supersecret/static/js/main.488be6c2.js",
+    "static/js/453.8c281a2e.chunk.js": "//andreasoun.github.io/supersecret/static/js/453.8c281a2e.chunk.js",
+    "static/media/image.png": "//andreasoun.github.io/supersecret/static/media/image.439f43eafb480282b59c.png",
+    "index.html": "//andreasoun.github.io/supersecret/index.html",
+    "main.9526f489.css.map": "//andreasoun.github.io/supersecret/static/css/main.9526f489.css.map",
+    "main.488be6c2.js.map": "//andreasoun.github.io/supersecret/static/js/main.488be6c2.js.map",
+    "453.8c281a2e.chunk.js.map": "//andreasoun.github.io/supersecret/static/js/453.8c281a2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9526f489.css",
+    "static/js/main.488be6c2.js"
+  ]
+}
